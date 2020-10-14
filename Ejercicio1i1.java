@@ -5,6 +5,7 @@
  */
 public class Ejercicio1i1 { 
   public static void main(String[] args) {
-    System.out.println("Noel Millán Rebollo");
+    int num;
+    System.in.("Introduzca un número: "),num ;
   }
 }
